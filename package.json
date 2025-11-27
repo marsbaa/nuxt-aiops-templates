@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-aiops-templates",
+  "version": "1.0.0",
+  "description": "AI Ops Nuxt Templates",
+  "main": "index.js",
+  "files": [
+    "templates"
+  ],
+  "type": "module"
+}
