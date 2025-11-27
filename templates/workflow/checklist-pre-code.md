@@ -1,5 +1,7 @@
 # Pre-code Checklist
 
+- [ ] GitHub issue created: issue number captured (`#___`). See `github-issue-pr-workflow.md`.
+- [ ] Branch created: named with issue reference (e.g., `feat/42-feature-name`).
 - [ ] Problem understood: PRD/feature spec read and clarified.
 - [ ] Scope agreed: goals/non-goals captured; assumptions listed.
 - [ ] UX/UI ready: designs/wireframes reviewed; states defined (loading/empty/error).
