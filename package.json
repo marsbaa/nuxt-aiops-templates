@@ -1,10 +1,23 @@
 {
   "name": "nuxt-aiops-templates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI Ops Nuxt Templates",
   "main": "index.js",
   "files": [
     "templates"
   ],
-  "type": "module"
+  "type": "module",
+  "bin": {
+    "maker-init": "./bin/init.js"
+  },
+  "keywords": [
+    "templates",
+    "maker",
+    "openspec",
+    "cli",
+    "augment",
+    "codex"
+  ],
+  "author": "marsbaa",
+  "license": "MIT"
 }
